@@ -11,3 +11,7 @@ Started on Day 1 with a focus on consistency and fundamentals.
 - Practice daily problem-solving
 - Build projects
 
+ ## Progress
+- Day 1: Python setup and first programs
+- Day 2: Comments, modules, and imports
+
