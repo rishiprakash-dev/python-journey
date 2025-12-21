@@ -9,5 +9,5 @@ Started on Day 1 with a focus on consistency and fundamentals.
 ## Goals
 - Learn Python fundamentals
 - Practice daily problem-solving
-- Build small projects
+- Build projects
 
