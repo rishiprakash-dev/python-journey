@@ -14,6 +14,7 @@ Started on Day 1 with a focus on consistency and fundamentals.
  ## Progress
 - Day 1: Python setup and first programs
 - Day 2: Comments, modules, and imports
-- Day 3: Variables, basic data types, and operators, type function, typecasting, input statements
+- Day 3: Variables, data types, operators, type(), type casting, and input statements
+
 
 
